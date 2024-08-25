@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/PreethiSenthilkumarMsc-DS/stress-releiver.git/static/css/main.a1194e52.css",
-    "main.js": "/PreethiSenthilkumarMsc-DS/stress-releiver.git/static/js/main.9c1d508a.js",
-    "static/js/453.736bcbca.chunk.js": "/PreethiSenthilkumarMsc-DS/stress-releiver.git/static/js/453.736bcbca.chunk.js",
-    "static/media/stretching.jpg": "/PreethiSenthilkumarMsc-DS/stress-releiver.git/static/media/stretching.168a4ebb119924f75a52.jpg",
-    "static/media/deepbreathe.jpg": "/PreethiSenthilkumarMsc-DS/stress-releiver.git/static/media/deepbreathe.f0507e7daf3663e8b9c0.jpg",
-    "static/media/muscle relax.jpeg": "/PreethiSenthilkumarMsc-DS/stress-releiver.git/static/media/muscle relax.0dc240c2ee380d820375.jpeg",
-    "static/media/bg.jpeg": "/PreethiSenthilkumarMsc-DS/stress-releiver.git/static/media/bg.ac2d89aedfe0fead542d.jpeg",
-    "static/media/meditate.jpeg": "/PreethiSenthilkumarMsc-DS/stress-releiver.git/static/media/meditate.4d52e07d51feffc31782.jpeg",
-    "index.html": "/PreethiSenthilkumarMsc-DS/stress-releiver.git/index.html",
-    "main.a1194e52.css.map": "/PreethiSenthilkumarMsc-DS/stress-releiver.git/static/css/main.a1194e52.css.map",
-    "main.9c1d508a.js.map": "/PreethiSenthilkumarMsc-DS/stress-releiver.git/static/js/main.9c1d508a.js.map",
-    "453.736bcbca.chunk.js.map": "/PreethiSenthilkumarMsc-DS/stress-releiver.git/static/js/453.736bcbca.chunk.js.map"
+    "main.css": "./static/css/main.a1194e52.css",
+    "main.js": "./static/js/main.9c1d508a.js",
+    "static/js/453.736bcbca.chunk.js": "./static/js/453.736bcbca.chunk.js",
+    "static/media/stretching.jpg": "./static/media/stretching.168a4ebb119924f75a52.jpg",
+    "static/media/deepbreathe.jpg": "./static/media/deepbreathe.f0507e7daf3663e8b9c0.jpg",
+    "static/media/muscle relax.jpeg": "./static/media/muscle relax.0dc240c2ee380d820375.jpeg",
+    "static/media/bg.jpeg": "./static/media/bg.ac2d89aedfe0fead542d.jpeg",
+    "static/media/meditate.jpeg": "./static/media/meditate.4d52e07d51feffc31782.jpeg",
+    "index.html": "./index.html",
+    "main.a1194e52.css.map": "./static/css/main.a1194e52.css.map",
+    "main.9c1d508a.js.map": "./static/js/main.9c1d508a.js.map",
+    "453.736bcbca.chunk.js.map": "./static/js/453.736bcbca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1194e52.css",
